@@ -2,7 +2,7 @@
 
 Typora開始收費了，我真的嚇到吃手手了。
 
-備份一下最後的免費版 v0.11.18。
+備份一下最後的Beta測試版 v0.11.18。
 
 [下載 (Windows x64)](https://github.com/HowardWhile/typora-beta/raw/main/typora-update-x64-1117.exe)
 
@@ -12,7 +12,7 @@ Typora開始收費了，我真的嚇到吃手手了。
 
 [下載 (Mac)](https://github.com/HowardWhile/typora-beta/raw/main/Typora-0.11.18.dmg)
 
-## 值得紀念的最後一版dev release
+## 值得紀念的最後的開發版本release
 
 #### 0.11.18
 
