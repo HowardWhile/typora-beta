@@ -2,15 +2,15 @@
 
 Typora開始收費了，我真的嚇到吃手手了。
 
-備份一下最後的免費版。
+備份一下最後的免費版 v0.11.18。
 
-[Windows x64](https://github.com/HowardWhile/typora-beta/raw/main/typora-update-x64-1117.exe)
+[下載 (Windows x64)](https://github.com/HowardWhile/typora-beta/raw/main/typora-update-x64-1117.exe)
 
-[Windows x86](https://github.com/HowardWhile/typora-beta/raw/main/typora-update-ia32-1117.exe)
+[下載 (Windows x86)](https://github.com/HowardWhile/typora-beta/raw/main/typora-update-ia32-1117.exe)
 
-[Linux x64](https://github.com/HowardWhile/typora-beta/raw/main/typora_0.11.18_amd64.deb)
+[下載 (Linux x64)](https://github.com/HowardWhile/typora-beta/raw/main/typora_0.11.18_amd64.deb)
 
-[Mac]()
+[下載 (Mac)](https://github.com/HowardWhile/typora-beta/raw/main/Typora-0.11.18.dmg)
 
 ## 值得紀念的最後一版dev release
 
